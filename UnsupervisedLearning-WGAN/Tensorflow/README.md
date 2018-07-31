@@ -22,7 +22,7 @@ bash download-imagenet-small.sh
 From the root of the benckmark, execute the following commands to run the benchmark. 
 
 ```
-cd script
+cd scripts
 bash benchmark-imagenet-small.sh
 ```
 
